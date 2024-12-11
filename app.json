@@ -3,6 +3,7 @@
     "name": "pokenative",
     "slug": "pokenative",
     "version": "1.0.0",
+    "entryPoint": "./app/index.tsx",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",

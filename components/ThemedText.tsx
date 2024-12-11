@@ -43,3 +43,4 @@ export function ThemedText({ variant, color, style, ...rest }: Props) {
   const colors = UseThemeColors();
   return <Text style={[styles[variant  ?? 'body3'],{color: colors[color ?? "grayDark"]},style]} {...rest}/>
 }
+

@@ -1,6 +1,5 @@
 import { View, ViewProps, ViewStyle } from "react-native";
 import { Shadows } from "./Shadows";
-import { useThemeColor } from "@/hooks/useThemeColor";
 import { UseThemeColors } from "@/hook/UseThemeColors";
 
 type Props = ViewProps

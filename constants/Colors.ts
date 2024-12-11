@@ -1,4 +1,3 @@
-
 export const Colors = {
   light: {
       tint:"#DC0A2D",
