@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Card } from "@/components/Card";
 import { ThemedText } from "@/components/ThemedText";
 import { UseThemeColors } from "@/hook/UseThemeColors";
@@ -20,4 +20,4 @@ const styles = StyleSheet.create({
     container: {
         flex: 1
     }
-})
+  }
